@@ -437,6 +437,9 @@ Before publishing reusable code, an appropriate open-source license will be adde
 
 Computer Science graduate developing skills in autonomous systems, distributed software, simulation, networking, and software integration.
 
+** alexander manrique jr** 
+
+cd grad may2026
 ---
 
 ## Project Status
